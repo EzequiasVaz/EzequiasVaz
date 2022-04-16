@@ -5,7 +5,7 @@
 <h2 >Eaí, eu sou o Ezequias Vaz...</h2>
 
 
-Atualmente estou buscando me aperfeiçoar em tudo que envolve a parte de Interface de Úsuario,
+Atualmente estou me aperfeiçoando em tudo que envolve a parte de Interface de Úsuario,
 estudando Desenvolvimento Front-End e UI Design, combinando HTML, CSS, JavaScript e Figma.
 
 Sendo assim, faço projetos ficticios para treinar, desde os primordios de Design, conteúdo,
