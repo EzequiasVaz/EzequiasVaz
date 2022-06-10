@@ -1,8 +1,4 @@
-![EVaz WebSite Logo Site](https://user-images.githubusercontent.com/54552019/163649736-b5565166-30a9-4dfc-bd3d-2383f16ae9f9.png)
-
-
-
-<h2 >Eaí, eu sou o Ezequias Vaz...</h2>
+<h1 >Eaí, eu sou o Ezequias Vaz...</h1>
 
 
 Atualmente estou me aperfeiçoando em tudo que envolve a parte de Interface de Úsuario,
