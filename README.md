@@ -7,8 +7,8 @@
 
 <h3 align="left">Me ache nas redes sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequias-vaz-190a781bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequias-vaz-190a781bb/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ezequiavazdos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ezequiavazdos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ezequias-vaz-190a781bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequias-vaz-190a781bb/" height="30" width="40" /></a>
+<a href="https://www.behance.net/ezequiavazdos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ezequiavazdos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stack atual:</h3>
