@@ -45,7 +45,7 @@ I started studying software development in 2019 and began my professional career
 - **Personal finance manager web application**  
   Full stack project focused on transaction tracking, categorization, and financial insights.
     
-  **<a href=finetria.com>Click here to see</a>**
+  **<a href="https://finetria.com" target="_blank">Click here to see</a>**
   
 ---
 
