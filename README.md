@@ -42,8 +42,18 @@ I started studying software development in 2019 and began my professional career
 
 ## 📂 Projects
 
-- **Personal finance manager web application**  
-  Full stack project focused on transaction tracking, categorization, and financial insights.
+- **Personal finance web application (private repository)**  
+  Full stack application currently used by real users, focused on personal finance management, transaction tracking, and financial insights.
+
+  Due to data privacy and security considerations, the repository is private.  
+  The project is actively maintained and continuously evolving.
+
+  Key responsibilities:
+  - Backend and frontend architecture
+  - API design and implementation
+  - Authentication and security
+  - Database modeling
+  - Continuous improvements and refactoring
     
   **<a href="https://finetria.com" target="_blank">Click here to see</a>**
   
