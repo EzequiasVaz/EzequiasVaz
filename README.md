@@ -4,6 +4,7 @@ I'm a **Full Stack Developer** with hands-on experience building web application
 
 I started studying software development in 2019 and began my professional career in October 2023. I'm currently focused on global opportunities, especially with **remote and international teams**.
 
+- **<a href="https://ezequiasvaz.github.io/my-resume/" target="_blank">See my resume</a>**
 ---
 
 ## 💻 Tech Stack
@@ -73,7 +74,6 @@ I started studying software development in 2019 and began my professional career
 
 - LinkedIn: https://www.linkedin.com/in/ezequias-vaz/
 - GitHub: https://github.com/ezequias-vaz
-
 ---
 
 ⭐️ *Always learning, building, and improving.*
