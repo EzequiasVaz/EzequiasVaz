@@ -28,6 +28,7 @@ I started studying software development in 2019 and began my professional career
 - Clean Architecture
 - SOLID principles
 - Agile / Scrum
+- CI / CD
 
 ---
 
@@ -56,7 +57,8 @@ I started studying software development in 2019 and began my professional career
   - Continuous improvements and refactoring
     
   **<a href="https://finetria.com" target="_blank">Click here to see</a>**
-  
+
+  *This project follows real-world constraints such as data privacy, security, and scalability.*
 ---
 
 ## 🌍 Career Goals
