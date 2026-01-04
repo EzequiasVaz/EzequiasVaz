@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** with hands-on experience building web applications using **Java** and **Angular**.
 
-I started studying software development in 2019 and began my professional career in October 2023. I'm currently focused on **entry-level to mid-level opportunities**, especially with **remote and international teams**.
+I started studying software development in 2019 and began my professional career in October 2023. I'm currently focused on global opportunities, especially with **remote and international teams**.
 
 ---
 
@@ -63,7 +63,7 @@ I started studying software development in 2019 and began my professional career
 
 ## 🌍 Career Goals
 
-- Entry-level to Mid-level Full Stack Developer roles
+- Full Stack Developer roles
 - Remote-first teams
 - International companies
 
